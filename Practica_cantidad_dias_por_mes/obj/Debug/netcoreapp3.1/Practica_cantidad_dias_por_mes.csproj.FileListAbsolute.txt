@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\bin\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.exe
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\bin\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.deps.json
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\bin\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\bin\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\bin\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.dll
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\bin\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.pdb
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\obj\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\obj\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\obj\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\obj\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\obj\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.dll
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\obj\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.pdb
+C:\Users\YeisonPX\source\repos\Practica_cantidad_dias_por_mes\Practica_cantidad_dias_por_mes\obj\Debug\netcoreapp3.1\Practica_cantidad_dias_por_mes.genruntimeconfig.cache
